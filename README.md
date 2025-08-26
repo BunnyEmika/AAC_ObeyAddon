@@ -10,3 +10,9 @@ when a phrase is detected in local, whisper, family, party or raid chat the corr
 
 - Blacklist
   Prevents players whos character names are written into it from triggering emotes.
+
+
+### Extra
+Here is some functionality than can be added if theres demand. Pull an issue to say if you'd like one of these implemented or something else added.
+- Change what chat channels can trigger phrases
+- Toggle for if phrases should be found within a message instead of the message needing to match the phrase exactly
